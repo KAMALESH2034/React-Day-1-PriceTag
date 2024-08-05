@@ -1,8 +1,7 @@
-# React + Vite
+# React Day -1, Price Card Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Task is to reproduce the given user interface using a React.js application with JSX. Also the code should be in a dynamic manner.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![1722842120741](image/README/1722842120741.png)
